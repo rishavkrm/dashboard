@@ -1,0 +1,5 @@
+Region,Total Outage Time (hours),Total Customers Affected,Total Outages,Avg. Outage Duration (hours),Avg. Customers Affected per Outage
+Northeast,2000,12000,500,4,24
+West,1800,10000,450,4,22
+Midwest,1500,9000,400,3.75,23
+South,2200,14000,550,4,25

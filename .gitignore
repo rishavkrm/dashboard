@@ -1,0 +1,23 @@
+backend/node_modules
+
+dashboard/node_modules
+dashboard/src/components/old
+dashboard/.pnp
+dashboard.pnp.js
+
+# testing
+dashboard/coverage
+
+# production
+dashboard/build
+
+# misc
+dashboard.DS_Store
+dashboard.env.local
+dashboard.env.development.local
+dashboard.env.test.local
+dashboard.env.production.local
+
+npm-debug.log*
+dashboardyarn-debug.log*
+dashboardyarn-error.log*

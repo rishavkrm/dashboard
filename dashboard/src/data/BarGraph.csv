@@ -1,0 +1,13 @@
+Month,Consumption (kWh),Average Temperature (°F),Avg. Household Consumption (kWh),Avg. Commercial Consumption (kWh),Avg. Industrial Consumption (kWh),Avg. Residential Consumption (kWh),Total CO2 Emissions (metric tons),Total Revenue from Electricity Sales (USD),Total Electricity Generation (GWh)
+January,1800,41,645,880,1130,630,1500,"$300,000 ",2000
+February,1900,42,670,900,1150,700,1600,"$310,000 ",2200
+March,2100,48,700,920,1200,720,1700,"$330,000 ",2300
+April,2200,54,720,940,1220,760,1800,"$350,000 ",2400
+May,2000,64,680,900,1180,720,1600,"$320,000 ",2100
+June,2300,73,740,980,1300,720,1900,"$360,000 ",2500
+July,2400,81,760,1000,1320,720,2000,"$370,000 ",2600
+August,2500,79,780,1020,1350,730,2100,"$380,000 ",2700
+September,2200,72,720,950,1250,700,1800,"$350,000 ",2300
+October,2000,59,680,900,1180,720,1600,"$320,000 ",2100
+November,1900,50,650,890,1150,720,1500,"$310,000 ",2000
+December,1800,43,630,880,1130,610,1400,"$290,000 ",1900

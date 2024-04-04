@@ -1,0 +1,5 @@
+Quarter,Consumption (kWh),Population (millions),Renewable Energy %,Total Energy Consumption (GWh),Avg. Household Consumption (kWh),Avg. Commercial Consumption (kWh),Avg. Industrial Consumption (kWh),Avg. Residential Consumption (kWh),Total CO2 Emissions (metric tons),Total Revenue from Electricity Sales (USD),Total Electricity Generation (GWh)
+Q1,25000,331,15%,"8,275",756,1120,1465,735,30000,"$8,750,000 ","10,500"
+Q2,31000,332,17%,"10,924",879,1243,1632,849,35000,"$9,880,000 ","12,500"
+Q3,28000,333,16%,"9,288",841,1168,1565,768,32000,"$8,500,000 ","11,200"
+Q4,30000,334,18%,"10,020",898,1310,1432,780,34000,"$9,250,000 ","11,800"
