@@ -15,6 +15,10 @@ export default function Cards({stats}) {
     if(isNaN(max)){
         max = 0;
     }
+    min = Math.round((min + Number.EPSILON) * 100) / 100;
+    max = Math.round((max + Number.EPSILON) * 100) / 100;
+    avg = Math.round((avg + Number.EPSILON) * 100) / 100;
+
     // console.log(stats);
     return (
         <div style={{display:'flex', flexDirection:'row', justifyContent:'space-around', margin:'20px'}}>
