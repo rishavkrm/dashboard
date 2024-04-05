@@ -1,6 +1,8 @@
 ## Description
 Energy Consumption Tracking and Analysis Platform
 
+## Requirements
+Node.js should be installed in the computer. Also, a local mongoDB server should be running and should contain data of energy consumption and other things.
 ## Installation
 1. Clone the repository.
 2. Navigate to the frontend directory: `cd dashboard`
@@ -12,6 +14,7 @@ Energy Consumption Tracking and Analysis Platform
 8. Start the backend server: `node server.js`
 
 ## Usage
+
 The application provides offer a user-friendly interface that
 provides insights into energy usage and consumption trends.  A user can see different trends(quarterly, monthly and statewise). And can draw on visualizations which will be downloadable as files, giving users a way to save and share custom highlights
 or notes on the data.
